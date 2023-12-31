@@ -1,3 +1,40 @@
+# Privacy Policy for SocialCleaner
+
+Last Updated: December 31, 2023
+
+Welcome to SocialCleaner (hereinafter referred to as "we," "our," "us"). We are committed to protecting your privacy, and this privacy policy explains our approach to the collection and use of information.
+
+# 1. No Collection of Personal Information:
+
+We do not collect any personally identifiable information when you use our Ad Blocker. We do not request, store, or process information such as your name, email address, phone number, or any other personal information.
+
+# 2. Operation of the SocialCleaner:
+
+Our Ad Blocker is designed to block unwanted ads without collecting or storing personal data. It operates locally on your device, analyzing web content in real-time without transferring information to remote servers.
+
+# 3. Non-Personal Technical Data:
+
+We may collect non-personal technical data, such as browser type, operating system, usage statistics of the Ad Blocker, for continuous improvement and troubleshooting purposes. This data does not allow for your identification.
+
+# 4. Cookies and Similar Technologies:
+
+We do not use cookies or similar technologies to track your online activity. Our Ad Blocker operates independently on your device without requiring the storage of personal information.
+
+# 5. Updates to the Privacy Policy:
+
+We reserve the right to update this privacy policy at any time. Changes will be published on this page with the date of the last update.
+
+# 6. Contact:
+
+If you have any questions regarding this privacy policy, please contact us at info@algosol.ca.
+
+By using SocialCleaner, you agree to the terms of this privacy policy.
+
+Note: This privacy policy is specifically tailored to an Ad Blocker that does not collect any personal information. It is essential to clearly communicate this absence of information collection to reassure users about the protection of their privacy.
+
+___
+
+
 # Politique de Confidentialité pour l'Ad Blocker
 
 Dernière mise à jour : 31-12-2023
